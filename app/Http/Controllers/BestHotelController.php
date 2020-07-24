@@ -20,20 +20,23 @@ class BestHotelController extends Controller
     /**
      * Display a listing of the resource.
      *
-     * @return \Illuminate\Http\Response
+     * @return json response
      */
     public function index(BestHotelRequest $request)
     {
         $hotels = $this->data;
-        // $filtered_data = [];
-        // foreach ($hotels as $hotel) {
-        //     if (isset($request->city) &&  $request->city == $hotel['city']) {
-        //         $filtered_data[] = $hotel;
-        //     }
-        //     if (isset($request->numberOfAdults) &&  $request->numberOfAdults <= $hotel['numberOfAdults']) {
-        //         $filtered_data[] = $hotel;
-        //     }
-        // }
+        $data = $hotels;
+        if (count($request->all()) > 0) {
+            $data = [];
+            foreach ($hotels as $hotel) {
+                if (isset($request['city']) &&  $request['city'] == $hotel['city']) {
+                    $data[] = $hotel;
+                }
+                if (isset($request['numberOfAdults']) &&  $request['numberOfAdults'] <= $hotel['numberOfAdults']) {
+                    $data[] = $hotel;
+                }
+            }
+        }
         return response()->json($hotels, 200);
     }
 }
