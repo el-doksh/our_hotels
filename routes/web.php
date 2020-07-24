@@ -13,6 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('TopHotels', 'TopHotelController@index');
+Route::get('BestHotels', 'BestHotelController@index');

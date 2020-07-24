@@ -1,0 +1,102 @@
+[
+    {
+        "hotelName" : "X Hotel",
+        "rate" : 4,
+        "price" : 257,
+        "discount" : 12.6,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 2,
+        "amenities" : "Breakfast, Lunch, Dinner, SPA, Pharmacy, Bar, Fitness Center"
+    },
+    {
+        "hotelName" : "LXR Hotel",
+        "rate" : 4.8,
+        "price" : 208.75,
+        "discount" : 28.5,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 3,
+        "amenities" : "Breakfast, Lunch, Dinner, SPA"
+    },
+    {
+        "hotelName" : "Shel Hotel",
+        "rate" : 4.5,
+        "price" : 122.8,
+        "discount" : 22.50,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 3,
+        "amenities" : "Breakfast, Dinner, Bar, Fitness Center"
+    },
+    {
+        "hotelName" : "Power Hotel",
+        "rate" : 4.3,
+        "price" : 140.6,
+        "discount" : 17.9,
+        "available" : 0,
+        "city": "LXR",
+        "numberOfAdults" : 2,
+        "amenities" : "Breakfast, Lunch"
+    },
+    {
+        "hotelName" : "Mina mark Hotel",
+        "rate" : 3.2,
+        "price" : 103.6,
+        "discount" : 17.8,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 2,
+        "amenities" : "Breakfast, Lunch, Bar, Fitness Center"
+    },
+    {
+        "hotelName" : "Ecotel Hotel",
+        "rate" : 3.6,
+        "price" : 100.4,
+        "discount" : 14.2,
+        "available" : 0,
+        "city": "CAI",
+        "numberOfAdults" : 4,
+        "amenities" :"Breakfast, Lunch, Bar"
+    },
+    {
+        "hotelName" : "Tarek Hotel",
+        "rate" : 4,
+        "price" : 110.5,
+        "discount" : 70.5,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 1,
+        "amenities" : "Breakfast, Lunch, Bar, Fitness Center"
+    },
+    {
+        "hotelName" : "NO Hotel",
+        "rate" : 4.5,
+        "price" : 510,
+        "discount" : 50,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 1,
+        "amenities" : "Breakfast, Lunch, Dinner, Bar, Fitness Center"
+    },
+    {
+        "hotelName" : "ON Hotel",
+        "rate" : 3.9,
+        "price" : 314.75,
+        "discount" : 14.75,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 2,
+        "amenities" : "Breakfast, Lunch, Bar"
+    },
+    {
+        "hotelName" : "Zamalek Hotel",
+        "rate" : 3.3,
+        "price" : 106.76,
+        "discount" : 20,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 3,
+        "amenities" : "Breakfast, Lunch, Dinner"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "hotel" : "InterContenental Hotel",
+        "hotelRate" : 4,
+        "hotelFare" : 257,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 2,
+        "roomAmenities" : "Breakfast, Lunch, Dinner, SPA, Pharmacy, Bar, Fitness Center"
+    },
+    {
+        "hotel" : "Cairo Hotel",
+        "hotelRate" : 4.8,
+        "hotelFare" : 208.5,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 3,
+        "roomAmenities" : "Breakfast, Lunch, Dinner, SPA"
+    },
+    {
+        "hotel" : "Tahrir Hotel",
+        "hotelRate" : 4.5,
+        "hotelFare" : 122.8,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 3,
+        "roomAmenities" : "Breakfast, Dinner, Bar, Fitness Center"
+    },
+    {
+        "hotel" : "Alex Hotel",
+        "hotelRate" : 4.3,
+        "hotelFare" : 140.6,
+        "available" : 0,
+        "city": "LXR",
+        "numberOfAdults" : 2,
+        "roomAmenities" : "Breakfast, Lunch"
+    },
+    {
+        "hotel" : "Delta Hotel",
+        "hotelRate" : 3.2,
+        "hotelFare" : 103.6,
+        "available" : 1,
+        "city": "LXR",
+        "numberOfAdults" : 2,
+        "roomAmenities" : "Breakfast, Lunch, Bar, Fitness Center"
+    },
+    {
+        "hotel" : "Dahab Hotel",
+        "hotelRate" : 3.6,
+        "hotelFare" : 100.4,
+        "available" : 0,
+        "city": "CAI",
+        "numberOfAdults" : 4,
+        "roomAmenities" :"Breakfast, Lunch, Bar"
+    },
+    {
+        "hotel" : "Mina Hotel",
+        "hotelRate" : 4,
+        "hotelFare" : 110.5,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 1,
+        "roomAmenities" : "Breakfast, Lunch, Bar, Fitness Center"
+    },
+    {
+        "hotel" : "Yes Hotel",
+        "hotelRate" : 4.5,
+        "hotelFare" : 510,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 1,
+        "roomAmenities" : "Breakfast, Lunch, Dinner, Bar, Fitness Center"
+    },
+    {
+        "hotel" : "Mark Hotel",
+        "hotelRate" : 3.9,
+        "hotelFare" : 314.75,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 2,
+        "roomAmenities" : "Breakfast, Lunch, Bar"
+    },
+    {
+        "hotel" : "Jada Hotel",
+        "hotelRate" : 3.3,
+        "hotelFare" : 106.76,
+        "available" : 1,
+        "city": "CAI",
+        "numberOfAdults" : 3,
+        "roomAmenities" : "Breakfast, Lunch, Dinner"
+    }
+]
